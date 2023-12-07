@@ -21,7 +21,7 @@ import animationData from "../animation/typing.json";
 
 
 import io from 'socket.io-client'
-const END_POINT="http://localhost:5000";
+const END_POINT="https://chatwithyj.onrender.com";
 var socket,selectedChatCompare;
 export default function SingleChat({fetchAgain,setFetchAgain}) {
   const {user,selectedChat,setSelectedChat,notification,setNotification}=ChatState();
