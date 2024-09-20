@@ -27,7 +27,7 @@ export default function HomePage() {
       m="40px 0 15px 0"
       borderRadius="1g"
       borderWidth="1px">
-        <Text fontSize="xx-large" >Chat App</Text>
+        <Text fontSize="xx-large" >Hostel Issue Resolution Portal</Text>
         
      </Box>
      <Box bg="white" w="100%" p={4} borderRadius="1g" borderWidth="1px">
